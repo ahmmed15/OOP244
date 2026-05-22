@@ -1,0 +1,4 @@
+In this assigment, I learnd how to sethup Github,SSH, VS code ,
+Git command, and c++ complilation. 
+In this assignment i face some challenges which is SSH connection and fixing Git push errors.
+Overall, in this assignment help me become more comfortable whit using the terminal ,Xcode, Githib, and the basic development workflow for C++ progrramming .

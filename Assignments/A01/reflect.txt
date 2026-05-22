@@ -1,0 +1,7 @@
+In this  assignment I have learned so many things like how to create and organize modules using header and source files in C++. I learned how to use namespaces, function overloading, references, arrays of pointers, and custom C-style string functions. I also learned how sorting can be done by swapping pointers instead of changing the original data.
+
+One difficulty I faced was understanding how the sort function works using PhoneRec pointers. At first I tried to sort the actual records instead of the pointers. Another challenge was formatting the phone number correctly using cout.width() and cout.fill().
+
+I also learned how overloaded functions can have different parameter lists but use the same function name. Testing each function one by one helped me understand debugging better.
+
+I think this assignment was very useful for practicing modular programming and working with C-style strings without using the standard cstring library. The tester program also helped me identify mistakes quickly.
